@@ -1,1 +1,1 @@
-# Jordle
+# Wordle
